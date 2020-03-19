@@ -1,0 +1,3 @@
+  git config --global user.name "fonixclc220"
+
+nos se nada
